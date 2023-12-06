@@ -1,6 +1,6 @@
 Name:		texlive-hep-acronym
-Version:	64890
-Release:	2
+Version:	67632
+Release:	1
 Summary:	An acronym extension for glossaries
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hep-acronym
